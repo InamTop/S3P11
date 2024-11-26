@@ -1,0 +1,3 @@
+1 Printer HP 10 150.50 2020
+2 Scanner Canon 5 80.00 2019
+3 Copier Xerox 3 200.00 2021
